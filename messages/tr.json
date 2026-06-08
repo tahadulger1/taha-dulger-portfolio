@@ -1,0 +1,90 @@
+{
+  "Navigation": {
+    "hero": "Giriş",
+    "projects": "Projeler",
+    "skills": "Yetkinlikler",
+    "about": "Hakkımda",
+    "contact": "İletişim"
+  },
+  "Hero": {
+    "badge": "Yeni projelere açığım",
+    "title1": "React ve Next.js ile hızlı, ölçülebilir ürünler geliştiriyorum.",
+    "description": "Frontend geliştirme, ürün düşüncesi ve teknik optimizasyonu tek çizgide buluşturuyorum. Amacım sadece güzel arayüz değil, net iş sonucu üreten dijital deneyimler inşa etmek.",
+    "viewProjects": "Projeleri İncele",
+    "quickContact": "Hızlı İletişim",
+    "summaryTitle": "30 Saniye Özeti",
+    "summary1": "Kimim: Taha Dülger, frontend odaklı geliştirici",
+    "summary2": "Ne yaparım: Performans ve ürün etkisi odaklı web geliştirme",
+    "summary3": "Nasıl çalışırım: Tasarım + kod + deploy tek akış",
+    "summary4": "Nasıl teslim ederim: Ölçülebilir, bakımı kolay ve ölçeklenebilir yapı",
+    "summary5": "Sonraki adım: Projeleri inceleyip iletişime geç"
+  },
+  "Impact": {
+    "liveProjects": "Canlı Proje",
+    "mainStack": "Ana Geliştirme Stack'i",
+    "endToEnd": "Tasarım + Geliştirme + Deploy"
+  },
+  "Projects": {
+    "title": "Öne Çıkan Projeler",
+    "subtitle": "Her proje kartı; problem, yaklaşım ve sonuç odağıyla hazırlandı.",
+    "items": {
+      "optimi": {
+        "title": "Optimi.gg",
+        "tag": "Altyapı Modernizasyonu",
+        "result": "Bakımı zor Vue yapısından daha sürdürülebilir Next.js mimarisine geçiş.",
+        "description": "Kod okunabilirliğini artıran, performansı iyileştiren ve yeni özellik geliştirme hızını yükselten bir dönüşüm süreci."
+      },
+      "giresun": {
+        "title": "Giresun Yumurta",
+        "tag": "Kurumsal Web Platformu",
+        "result": "İş hedeflerine odaklı, satış sürecini destekleyen kurumsal vitrin.",
+        "description": "Bilgi mimarisinden sunucu kurulumuna kadar tek elde yönetilen; hızlı, güvenilir ve sürdürülebilir bir proje teslimi."
+      },
+      "giresunErp": {
+        "title": "Giresun Yumurta ERP",
+        "tag": "ERP Platformu",
+        "result": "Muhasebe ve satış takibini tek panelde birleştiren ERP arayüzü.",
+        "description": "Giresun Yumurta için %100 dijital, bulut yedekleme entegreli ve çoklu cihaz destekli ERP altyapısını temsil eden; muhasebe, satış ve operasyon takibini tek merkezde toplayan çözüm.",
+        "visualNote": "*Görsel temsilidir."
+      },
+      "athletic": {
+        "title": "Athletic Sport Center",
+        "tag": "Kullanıcı Arayüzü",
+        "result": "Mobil öncelikli deneyimle daha net hizmet sunumu.",
+        "description": "Spor merkezi için hazırlanan modern arayüz; hızlı gezinme, güçlü görsel hiyerarşi ve dönüşüm odaklı içerik yapısı."
+      }
+    }
+  },
+  "Skills": {
+    "title": "Teknik Yetkinlikler",
+    "subtitle": "Ürün geliştirme sürecinde aktif kullandığım araçlar ve teknik alanlar.",
+    "groups": {
+      "frontend": "Frontend",
+      "uiux": "UI/UX",
+      "ai": "AI & Otomasyon",
+      "backend": "Backend & Ops"
+    },
+    "items": {
+      "frontend": ["React.js", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS"],
+      "uiux": ["Figma", "Responsive Design", "Bileşen Sistemleri", "Kurumsal Kimlik"],
+      "ai": ["Prompt Engineering", "No-code/Low-code", "İş Akışı Otomasyonu"],
+      "backend": ["Python (Analiz)", "VPS", "Nginx", "Linux", "Git/GitHub"]
+    }
+  },
+  "About": {
+    "approachTitle": "Çalışma Yaklaşımım",
+    "approachDesc": "Önce problemi netleştirir, sonra minimum karmaşıklıkta çözüm üretirim. Kod kalitesi, performans ve sürdürülebilirlik kararlarını birlikte ele alırım.",
+    "title": "Hakkımda",
+    "p1": "Yazılım yolculuğuna frontend ile başladım; zamanla veri analizi, otomasyon ve deployment tarafını da sürece dahil ederek daha bütünsel bir üretim yaklaşımı geliştirdim.",
+    "p2": "Özellikle modern web mimarilerine geçiş, eski kod tabanlarını sadeleştirme ve ürün performansını artırma konularında çalışıyorum. Hedefim; yalnızca çalışan değil, bakımı kolay ve büyümeye hazır sistemler kurmak."
+  },
+  "Contact": {
+    "title": "Birlikte proje geliştirelim",
+    "subtitle": "Yeni ürün geliştirme, mevcut projeyi hızlandırma veya teknik modernizasyon ihtiyaçlarınız için iletişime geçebilirsiniz.",
+    "email": "E-posta Gönder",
+    "linkedin": "LinkedIn'den Bağlan"
+  },
+  "Footer": {
+    "copyright": "Taha Dülger"
+  }
+}

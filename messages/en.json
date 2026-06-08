@@ -1,0 +1,90 @@
+{
+  "Navigation": {
+    "hero": "Home",
+    "projects": "Projects",
+    "skills": "Skills",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "Hero": {
+    "badge": "Open to new projects",
+    "title1": "I build fast, scalable products with React and Next.js.",
+    "description": "I bring frontend development, product thinking, and technical optimization together. My goal isn't just a beautiful interface, but building digital experiences that produce clear business results.",
+    "viewProjects": "View Projects",
+    "quickContact": "Quick Contact",
+    "summaryTitle": "30 Second Summary",
+    "summary1": "Who I am: Taha Dülger, frontend-focused developer",
+    "summary2": "What I do: Performance and product-impact driven web development",
+    "summary3": "How I work: Design + code + deploy in a single flow",
+    "summary4": "How I deliver: Measurable, maintainable, and scalable architecture",
+    "summary5": "Next step: Check out my projects and get in touch"
+  },
+  "Impact": {
+    "liveProjects": "Live Projects",
+    "mainStack": "Main Development Stack",
+    "endToEnd": "Design + Development + Deploy"
+  },
+  "Projects": {
+    "title": "Featured Projects",
+    "subtitle": "Each project card is designed with a focus on problem, approach, and result.",
+    "items": {
+      "optimi": {
+        "title": "Optimi.gg",
+        "tag": "Infrastructure Modernization",
+        "result": "Transition from hard-to-maintain Vue architecture to a more sustainable Next.js setup.",
+        "description": "A transformation process that increased code readability, improved performance, and accelerated new feature development."
+      },
+      "giresun": {
+        "title": "Giresun Yumurta",
+        "tag": "Corporate Web Platform",
+        "result": "A corporate showcase focused on business goals and supporting the sales process.",
+        "description": "A fast, reliable, and sustainable project delivery managed single-handedly from information architecture to server setup."
+      },
+      "giresunErp": {
+        "title": "Giresun Yumurta ERP",
+        "tag": "ERP Platform",
+        "result": "An ERP interface combining accounting and sales tracking in a single panel.",
+        "description": "A 100% digital, cloud backup integrated, and multi-device supported ERP infrastructure for Giresun Yumurta; centralizing accounting, sales, and operations.",
+        "visualNote": "*Image is representative."
+      },
+      "athletic": {
+        "title": "Athletic Sport Center",
+        "tag": "User Interface",
+        "result": "Clearer service presentation with a mobile-first experience.",
+        "description": "A modern interface prepared for a sports center; fast navigation, strong visual hierarchy, and conversion-focused content structure."
+      }
+    }
+  },
+  "Skills": {
+    "title": "Technical Skills",
+    "subtitle": "Tools and technical areas I actively use in the product development process.",
+    "groups": {
+      "frontend": "Frontend",
+      "uiux": "UI/UX",
+      "ai": "AI & Automation",
+      "backend": "Backend & Ops"
+    },
+    "items": {
+      "frontend": ["React.js", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS"],
+      "uiux": ["Figma", "Responsive Design", "Component Systems", "Corporate Identity"],
+      "ai": ["Prompt Engineering", "No-code/Low-code", "Workflow Automation"],
+      "backend": ["Python (Analysis)", "VPS", "Nginx", "Linux", "Git/GitHub"]
+    }
+  },
+  "About": {
+    "approachTitle": "My Working Approach",
+    "approachDesc": "I clarify the problem first, then produce a solution with minimum complexity. I evaluate code quality, performance, and maintainability decisions together.",
+    "title": "About Me",
+    "p1": "I started my software journey with frontend; over time, I developed a more holistic production approach by including data analysis, automation, and deployment in the process.",
+    "p2": "I specifically work on transitioning to modern web architectures, simplifying legacy codebases, and increasing product performance. My goal is to build systems that are not just functional, but easy to maintain and ready to scale."
+  },
+  "Contact": {
+    "title": "Let's build a project together",
+    "subtitle": "You can reach out for new product development, accelerating an existing project, or technical modernization needs.",
+    "email": "Send Email",
+    "linkedin": "Connect on LinkedIn"
+  },
+  "Footer": {
+    "copyright": "Taha Dülger"
+  }
+}
